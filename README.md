@@ -1,3 +1,3 @@
-Calculadora que realiza cálculos matemáticos simples, podendo ser utilizado com as teclas da tela, ou pelo teclado.
+Calculadora simples, carregada na página WEB, que realiza os cálculos matemáticos básicos, foi feita utilizando Javascript, HTML e CSS.
 
-Foi construída através de um desafio proposto pelo curso de Fullstack Javascript da OneBitCode, para aplicar os conhecimentos adquiridos de HTML, CSS e Javascript.
+Esse projeto fez parte de um exercício proposto pelo curso Fullstack Javascript, para aplicar os conhecimentos teóricos do módulo de DOM.
